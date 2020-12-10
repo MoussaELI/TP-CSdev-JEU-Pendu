@@ -1,0 +1,9 @@
+ocean 
+manger
+telephone
+ordinateur
+papier
+bouteille
+papillon
+sapin
+clavier
